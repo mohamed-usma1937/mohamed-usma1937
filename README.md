@@ -1,179 +1,80 @@
-# 👋 Hello and welcome to my GitHub profile!
+# 👨‍💻 Bouchelaghem Mohamed Seddik
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+### Développeur Web & Mobile | Passionné par l’innovation digitale
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bouchelaghem-mohamed-seddik-454a62352/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/mohamed.sdike/profilecard/?igsh=Nzlmcm1vaWs3dHll" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-  <a href="https://wa.me/213779154202" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
-  </a>
-</div>
+📍 Alger Centre, Alger  
+📞 0779154202  
+📧 [LinkedIn](https://www.linkedin.com/in/bouchelaghem-mohamed-seddik-454a62352)  
+🔗 [GitHub](https://github.com/mohamed-usma1937)  
+🌐 Portfolio : *En cours de développement*
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 À propos de moi
 
-I am a passionate **Full Stack Developer** specializing in building high-performance and user-friendly web and mobile applications. I love tackling technical challenges and exploring new technologies to optimize my projects.
-
-```javascript
-const mohamed = {
-  name: "Mohamed Seddik Bouchelaghem",
-  role: "Full Stack Developer",
-  location: "Algeria 🇩🇿",
-  passions: ["Web Development", "Mobile Apps", "Problem Solving", "New Technologies"],
-  currentlyLearning: "Advanced React Native & Cloud Architecture",
-  askMeAbout: ["React", "Flutter", "Node.js", "Laravel", "E-commerce"],
-  funFact: "I can debug code faster than I can debug my life! 😄"
-};
-```
+Je suis un développeur web & mobile passionné avec une solide expérience en **Flutter**, **React.js**, **Laravel**, et **Firebase**. J'aime créer des solutions digitales modernes, performantes et accessibles, que ce soit pour le **web** ou le **mobile**.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🎓 Formation
 
-### 💻 **Programming Languages**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
-</p>
-
-### 🚀 **Frameworks & Libraries**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap" />
-</p>
-
-### 🧠 **Runtime & Tools**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="30" alt="bun" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode" />
-</p>
-
-### 🗄️ **Databases & Backend Services**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="30" alt="firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb" />
-</p>
-
-### 🛒 **CMS & E-commerce**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" height="30" alt="shopify" />
-</p>
+**BTS Développement Web et Mobile**  
+📅 2022 – 2025  
+🎯 Formation axée sur le développement fullstack, les technologies mobiles, et la gestion de projet.
 
 ---
 
-## 🎯 What I Do
+## 🛠️ Compétences techniques
 
-```mermaid
-graph TD
-    A[Full Stack Development] --> B[Frontend Development]
-    A --> C[Backend Development]
-    A --> D[Mobile Development]
-    A --> E[E-commerce Solutions]
-    
-    B --> F[React.js]
-    B --> G[Vue.js]
-    B --> H[Responsive Design]
-    
-    C --> I[Node.js]
-    C --> J[Laravel]
-    C --> K[API Development]
-    
-    D --> L[Flutter]
-    D --> M[React Native]
-    
-    E --> N[WordPress]
-    E --> O[Shopify]
-```
+- **Mobile** : Flutter, Dart, Firebase, iOS/Android
+- **Frontend** : React.js, Vue.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS
+- **Backend** : Laravel, Node.js, Express.js, Bun, PHP
+- **Base de données** : MySQL
+- **Outils & CMS** : Git, GitHub, Vite, Filament, WordPress, API REST
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Expérience professionnelle
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-</div>
+### 🔧 Développeur Freelance Web & Mobile | *2022 - 2024*
+- Création d'applications web (React.js / Laravel)
+- Applications mobiles Flutter avec Firebase & API REST
+- Développement de solutions WordPress et gestion de bases de données MySQL
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" height="150" alt="streak graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="trophy graph" />
-</div>
+### 💻 Stage - Swalis Entreprise (Cosmétiques, Alger)
+- Développement web sous WordPress
+- Optimisation base de données & intégration backend/frontend
 
 ---
 
-## 🐍 Contribution Graph
+## 🧪 Projets techniques
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💼 Recent Projects
-
-🚀 **Coming Soon!** - Currently working on exciting projects that will be showcased here.
+- **Applications Mobiles** : Flutter, Firebase, UI modernes, gestion d'état (Provider/BLoC)
+- **Applications Web** : React.js, Laravel, TypeScript, REST API
+- **WordPress** : Thèmes/plugins personnalisés, SEO, optimisation performance
 
 ---
 
-## 📈 Profile Views
+## 🌐 Langues
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to discussing new opportunities, collaborating on interesting projects, or just having a chat about technology!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/bouchelaghem-mohamed-seddik-454a62352/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/mohamed.sdike/profilecard/?igsh=Nzlmcm1vaWs3dHll" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://wa.me/213779154202" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
-  </a>
-</div>
+- Arabe : 🇩🇿 Langue maternelle  
+- Français : 🇫🇷 Intermédiaire  
+- Anglais : 🇬🇧 Intermédiaire (technique)
 
 ---
 
-<div align="center">
-  <h3>⭐ Don't forget to star my repositories if you find them useful! ⭐</h3>
-  <p><em>Happy coding! 🚀</em></p>
-</div>
+## 🤝 Soft Skills
+
+✔ Travail en équipe  
+✔ Gestion de projet  
+✔ Résolution de problèmes  
+✔ Adaptabilité  
+✔ Communication client
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+> 🔥 “Toujours apprendre, toujours créer.”
+
+---
+
+📫 N’hésite pas à me contacter ou à collaborer sur des projets open-source !
