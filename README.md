@@ -1,148 +1,196 @@
-import React from 'react';
-import { User, Code, Database, Smartphone, Globe, Phone, Mail, Linkedin, Instagram, MessageCircle } from 'lucide-react';
+# 👋 Hello and welcome to my GitHub profile!
 
-const ProfileApp = () => {
-  const technologies = [
-    { name: 'JavaScript', color: 'bg-yellow-500' },
-    { name: 'TypeScript', color: 'bg-blue-600' },
-    { name: 'React', color: 'bg-cyan-500' },
-    { name: 'Flutter', color: 'bg-sky-500' },
-    { name: 'Node.js', color: 'bg-green-600' },
-    { name: 'Laravel', color: 'bg-red-500' },
-    { name: 'Vue.js', color: 'bg-emerald-500' },
-    { name: 'Firebase', color: 'bg-orange-500' },
-    { name: 'MySQL', color: 'bg-blue-700' },
-    { name: 'PHP', color: 'bg-indigo-600' },
-    { name: 'Tailwind CSS', color: 'bg-teal-500' },
-    { name: 'Bootstrap', color: 'bg-purple-600' }
-  ];
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-  const skills = [
-    { icon: <Globe className="w-5 h-5" />, title: 'Web Development', desc: 'React, Vue.js, Laravel' },
-    { icon: <Smartphone className="w-5 h-5" />, title: 'Mobile Development', desc: 'Flutter, React Native' },
-    { icon: <Database className="w-5 h-5" />, title: 'Backend', desc: 'Node.js, Express.js, PHP' },
-    { icon: <Code className="w-5 h-5" />, title: 'E-commerce', desc: 'WordPress, Shopify' }
-  ];
+<div align="center">
+  <a href="https://www.linkedin.com/in/bouchelaghem-mohamed-seddik-454a62352/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/mohamed.sdike/profilecard/?igsh=Nzlmcm1vaWs3dHll" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+  <a href="https://wa.me/213779154202" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+</div>
 
-  const socialLinks = [
-    { icon: <Linkedin className="w-5 h-5" />, name: 'LinkedIn', color: 'bg-blue-600' },
-    { icon: <Instagram className="w-5 h-5" />, name: 'Instagram', color: 'bg-pink-600' },
-    { icon: <MessageCircle className="w-5 h-5" />, name: 'WhatsApp', color: 'bg-green-500' }
-  ];
+---
 
-  return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
-      {/* Header */}
-      <div className="relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-r from-purple-600/20 to-cyan-600/20"></div>
-        <div className="relative px-6 py-8">
-          <div className="text-center">
-            <div className="w-32 h-32 mx-auto mb-6 rounded-full bg-gradient-to-r from-purple-500 to-cyan-500 p-1">
-              <div className="w-full h-full rounded-full bg-slate-800 flex items-center justify-center">
-                <User className="w-16 h-16 text-white" />
-              </div>
-            </div>
-            <h1 className="text-3xl font-bold text-white mb-2">Mohamed Seddik</h1>
-            <p className="text-cyan-300 text-lg">Full Stack Developer</p>
-            <div className="flex justify-center space-x-4 mt-4">
-              {socialLinks.map((social, index) => (
-                <button
-                  key={index}
-                  className={`${social.color} p-3 rounded-full shadow-lg transform hover:scale-105 transition-all duration-200`}
-                >
-                  {social.icon}
-                </button>
-              ))}
-            </div>
-          </div>
-        </div>
-      </div>
+## 👨‍💻 About Me
 
-      {/* Welcome Message */}
-      <div className="px-6 py-4">
-        <div className="bg-slate-800/50 backdrop-blur-sm rounded-xl p-6 border border-slate-700">
-          <h2 className="text-2xl font-bold text-white mb-4 flex items-center">
-            <span className="text-2xl mr-2">👋</span>
-            Welcome to my profile!
-          </h2>
-          <p className="text-slate-300 leading-relaxed">
-            I am a passionate web and mobile developer, specializing in building high-performance and user-friendly applications.
-          </p>
-        </div>
-      </div>
+I am a passionate **Full Stack Developer** specializing in building high-performance and user-friendly web and mobile applications. I love tackling technical challenges and exploring new technologies to optimize my projects.
 
-      {/* Skills Section */}
-      <div className="px-6 py-4">
-        <h3 className="text-xl font-bold text-white mb-4 flex items-center">
-          <Code className="w-6 h-6 mr-2 text-cyan-400" />
-          What I Do
-        </h3>
-        <div className="grid grid-cols-1 gap-4">
-          {skills.map((skill, index) => (
-            <div key={index} className="bg-slate-800/50 backdrop-blur-sm rounded-xl p-4 border border-slate-700">
-              <div className="flex items-center mb-2">
-                <div className="text-cyan-400 mr-3">
-                  {skill.icon}
-                </div>
-                <h4 className="font-semibold text-white">{skill.title}</h4>
-              </div>
-              <p className="text-slate-400 text-sm">{skill.desc}</p>
-            </div>
-          ))}
-        </div>
-      </div>
-
-      {/* Technologies */}
-      <div className="px-6 py-4">
-        <h3 className="text-xl font-bold text-white mb-4 flex items-center">
-          <Database className="w-6 h-6 mr-2 text-cyan-400" />
-          Technologies & Tools
-        </h3>
-        <div className="grid grid-cols-2 gap-3">
-          {technologies.map((tech, index) => (
-            <div key={index} className="bg-slate-800/50 backdrop-blur-sm rounded-lg p-3 border border-slate-700">
-              <div className="flex items-center">
-                <div className={`w-3 h-3 rounded-full ${tech.color} mr-3`}></div>
-                <span className="text-white font-medium text-sm">{tech.name}</span>
-              </div>
-            </div>
-          ))}
-        </div>
-      </div>
-
-      {/* Contact Section */}
-      <div className="px-6 py-4">
-        <h3 className="text-xl font-bold text-white mb-4 flex items-center">
-          <Phone className="w-6 h-6 mr-2 text-cyan-400" />
-          Get In Touch
-        </h3>
-        <div className="bg-slate-800/50 backdrop-blur-sm rounded-xl p-6 border border-slate-700">
-          <p className="text-slate-300 mb-4">
-            I love tackling technical challenges and exploring new technologies to optimize my projects. Feel free to reach out for collaboration! 🚀
-          </p>
-          <div className="space-y-3">
-            <div className="flex items-center text-slate-300">
-              <Phone className="w-4 h-4 mr-3 text-cyan-400" />
-              <span>+213 779 154 202</span>
-            </div>
-            <div className="flex items-center text-slate-300">
-              <Mail className="w-4 h-4 mr-3 text-cyan-400" />
-              <span>Available for projects</span>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Footer */}
-      <div className="px-6 py-8">
-        <div className="text-center">
-          <p className="text-slate-400 text-sm">
-            © 2024 Mohamed Seddik Bouchelaghem. Built with React Native.
-          </p>
-        </div>
-      </div>
-    </div>
-  );
+```javascript
+const mohamed = {
+  name: "Mohamed Seddik Bouchelaghem",
+  role: "Full Stack Developer",
+  location: "Algeria 🇩🇿",
+  passions: ["Web Development", "Mobile Apps", "Problem Solving", "New Technologies"],
+  currentlyLearning: "Advanced React Native & Cloud Architecture",
+  askMeAbout: ["React", "Flutter", "Node.js", "Laravel", "E-commerce"],
+  funFact: "I can debug code faster than I can debug my life! 😄"
 };
+```
 
-export default ProfileApp;
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 **Programming Languages**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+</div>
+
+### 🚀 **Frameworks & Libraries**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+</div>
+
+### 🧠 **Runtime & Tools**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="40" alt="bun logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+</div>
+
+### 🗄️ **Databases & Backend Services**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+</div>
+
+### 🛒 **CMS & E-commerce**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" height="40" alt="shopify logo" />
+</div>
+
+---
+
+## 🎯 What I Do
+
+```mermaid
+graph TD
+    A[Full Stack Development] --> B[Frontend Development]
+    A --> C[Backend Development]
+    A --> D[Mobile Development]
+    A --> E[E-commerce Solutions]
+    
+    B --> F[React.js]
+    B --> G[Vue.js]
+    B --> H[Responsive Design]
+    
+    C --> I[Node.js]
+    C --> J[Laravel]
+    C --> K[API Development]
+    
+    D --> L[Flutter]
+    D --> M[React Native]
+    
+    E --> N[WordPress]
+    E --> O[Shopify]
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" height="150" alt="streak graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="trophy graph" />
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 💼 Recent Projects
+
+🚀 **Coming Soon!** - Currently working on exciting projects that will be showcased here.
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborating on interesting projects, or just having a chat about technology!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/bouchelaghem-mohamed-seddik-454a62352/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/mohamed.sdike/profilecard/?igsh=Nzlmcm1vaWs3dHll" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://wa.me/213779154202" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>⭐ Don't forget to star my repositories if you find them useful! ⭐</h3>
+  <p><em>Happy coding! 🚀</em></p>
+</div>
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
