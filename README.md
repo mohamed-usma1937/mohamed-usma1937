@@ -1,19 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bouchelaghem%20Mohamed%20Seddik&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Bouchelaghem%20Mohamed%20Seddik&fontSize=36&fontColor=fff&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&descColor=d0d0ff&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Flutter+%26+Mobile+Developer;Laravel+%7C+React.js+%7C+Filament;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Flutter+%26+Mobile+Developer+%F0%9F%93%B1;Laravel+%7C+React.js+%7C+Filament+%E2%9A%A1;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bouchelaghem-mohamed-seddik-454a62352)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-usma1937)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bouchelaghemmohamed.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohusma730@gmail.com)
+<a href="https://www.linkedin.com/in/bouchelaghem-mohamed-seddik-454a62352">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/mohamed-usma1937">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://bouchelaghemmohamed.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="mailto:mohusma730@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-📍 Alger Centre, Algérie &nbsp;|&nbsp; 📞 0779 154 202
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohamed-usma1937&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -25,10 +35,10 @@ Développeur **Web & Mobile** passionné par la création de solutions digitales
 
 ```yaml
 name     : Bouchelaghem Mohamed Seddik
-based_in : Alger, Algérie
+based_in : Alger Centre, Algérie
 focus    : Fullstack Web · Mobile · UI/UX
 learning : Always 🚀
-mindset  : "Toujours apprendre, toujours créer."
+mindset  : "Toujours apprendre, toujours créer. 🔥"
 ```
 
 ---
@@ -61,6 +71,30 @@ mindset  : "Toujours apprendre, toujours créer."
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-usma1937&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-usma1937&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohamed-usma1937&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff" width="60%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-usma1937&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
@@ -98,28 +132,24 @@ mindset  : "Toujours apprendre, toujours créer."
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Soft Skills
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-usma1937&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-usma1937&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mohamed-usma1937&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff)
-
-</div>
+`✔ Travail en équipe` &nbsp; `✔ Gestion de projet` &nbsp; `✔ Résolution de problèmes` &nbsp; `✔ Adaptabilité` &nbsp; `✔ Communication client`
 
 ---
 
 <div align="center">
 
+<br/>
+
 > *🔥 "Toujours apprendre, toujours créer."*
 
 <br/>
 
-📫 **Open to collaborations & open-source projects!**
+📫 **Open to collaborations & open-source projects — feel free to reach out!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
