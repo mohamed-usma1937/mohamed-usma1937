@@ -1,25 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Bouchelaghem%20Mohamed%20Seddik&fontSize=36&fontColor=fff&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&descColor=d0d0ff&animation=fadeIn" width="100%"/>
+<!-- HEADER BANNER - SVG direct, no external service -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#grad)" rx="0"/>
+  <text x="450" y="95" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="white" text-anchor="middle">Bouchelaghem Mohamed Seddik</text>
+  <text x="450" y="135" font-family="Arial, sans-serif" font-size="17" fill="#c4b5fd" text-anchor="middle">Web &amp; Mobile Developer</text>
+  <text x="450" y="168" font-family="Arial, sans-serif" font-size="13" fill="#a0a0c0" text-anchor="middle">Laravel · React.js · Flutter · Filament</text>
+</svg>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Flutter+%26+Mobile+Developer+%F0%9F%93%B1;Laravel+%7C+React.js+%7C+Filament+%E2%9A%A1;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Flutter+%26+Mobile+Developer+%F0%9F%93%B1;Laravel+%7C+React.js+%7C+Filament+%E2%9A%A1;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/bouchelaghem-mohamed-seddik-454a62352">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/mohamed-usma1937">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://bouchelaghemmohamed.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="mailto:mohusma730@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/bouchelaghem-mohamed-seddik-454a62352"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/mohamed-usma1937"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://bouchelaghemmohamed.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="mailto:mohusma730@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -35,7 +40,7 @@ Développeur **Web & Mobile** passionné par la création de solutions digitales
 
 ```yaml
 name     : Bouchelaghem Mohamed Seddik
-based_in : Alger Centre, Algérie
+based_in : Alger Centre, Algérie 📍
 focus    : Fullstack Web · Mobile · UI/UX
 learning : Always 🚀
 mindset  : "Toujours apprendre, toujours créer. 🔥"
@@ -79,18 +84,13 @@ mindset  : "Toujours apprendre, toujours créer. 🔥"
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohamed-usma1937&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="180"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-usma1937&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="180"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=mohamed-usma1937&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff" width="60%"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-usma1937&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%"/>
 
@@ -150,6 +150,17 @@ mindset  : "Toujours apprendre, toujours créer. 🔥"
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" width="100%"/>
+<!-- FOOTER SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="100%">
+  <defs>
+    <linearGradient id="grad2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#24243e"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="80" fill="url(#grad2)" rx="0"/>
+  <text x="450" y="48" font-family="Arial, sans-serif" font-size="13" fill="#c4b5fd" text-anchor="middle">Built with ❤️ by @mohamed-usma1937</text>
+</svg>
 
 </div>
