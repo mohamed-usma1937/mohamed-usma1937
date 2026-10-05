@@ -11,17 +11,17 @@
   </defs>
   <rect width="900" height="200" fill="url(#grad)" rx="0"/>
   <text x="450" y="95" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="white" text-anchor="middle">Bouchelaghem Mohamed Seddik</text>
-  <text x="450" y="135" font-family="Arial, sans-serif" font-size="17" fill="#c4b5fd" text-anchor="middle">Web &amp; Mobile Developer</text>
-  <text x="450" y="168" font-family="Arial, sans-serif" font-size="13" fill="#a0a0c0" text-anchor="middle">Laravel · React.js · Flutter · Filament</text>
+  <text x="450" y="135" font-family="Arial, sans-serif" font-size="17" fill="#c4b5fd" text-anchor="middle">Développeur Full-Stack Web &amp; Mobile</text>
+  <text x="450" y="168" font-family="Arial, sans-serif" font-size="13" fill="#a0a0c0" text-anchor="middle">Laravel · React.js · Inertia.js · Flutter · Filament</text>
 </svg>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Flutter+%26+Mobile+Developer+%F0%9F%93%B1;Laravel+%7C+React.js+%7C+Filament+%E2%9A%A1;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+Mobile+Developer+%F0%9F%92%BB;Laravel+%7C+React.js+%7C+Inertia.js+%E2%9A%A1;Flutter+%2B+Firebase+%F0%9F%93%B1;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/bouchelaghem-mohamed-seddik-454a62352"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mohamed-seddik-bouchelaghem-471b26386"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/mohamed-usma1937"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://bouchelaghemmohamed.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="mailto:mohusma730@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -36,12 +36,12 @@
 
 ## 🧑‍💻 About Me
 
-Développeur **Web & Mobile** passionné par la création de solutions digitales modernes, performantes et accessibles. Avec une expérience solide en **Flutter**, **React.js**, **Laravel** et **Firebase**, je conçois des applications aussi bien pour le web que pour le mobile.
+Développeur **Full-Stack Web & Mobile** spécialisé dans la conception de solutions digitales sur mesure, notamment pour la **collecte, la gestion et la centralisation des données** dans le cadre d'études de marché et de besoins marketing. Spécialisation principale en **Laravel**, **React.js** et **Inertia.js**, avec une expérience en **Flutter**, **Firebase**, **PostgreSQL** et **MySQL**.
 
 ```yaml
 name     : Bouchelaghem Mohamed Seddik
-based_in : Alger Centre, Algérie 📍
-focus    : Fullstack Web · Mobile · UI/UX
+based_in : Alger, Algérie 📍
+focus    : Fullstack Web · Mobile · Collecte de données
 learning : Always 🚀
 mindset  : "Toujours apprendre, toujours créer. 🔥"
 ```
@@ -57,25 +57,26 @@ mindset  : "Toujours apprendre, toujours créer. 🔥"
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### ⚙️ Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄 Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
@@ -101,14 +102,26 @@ mindset  : "Toujours apprendre, toujours créer. 🔥"
 ## 💼 Experience
 
 ```
-🔧  Développeur Freelance Web & Mobile          2022 — 2024
-    ├─ Applications web  →  React.js / Laravel
-    ├─ Applications mobile  →  Flutter + Firebase + REST API
-    └─ WordPress  →  Thèmes / plugins / MySQL
+💻  Développeur Web — Swalis (Alger, hybride)          Avr. 2026 — Sept. 2026
+    ├─ Développement Full-Stack  →  Laravel / React.js / Inertia.js
+    ├─ Fonctionnalités Frontend & Backend  →  APIs REST
+    ├─ Données  →  MySQL / PostgreSQL
+    └─ Projets clients  →  Aigle, Ramy
 
-💻  Stage — Swalis Entreprise (Alger)
-    ├─ Développement web WordPress
-    └─ Optimisation BDD & intégration backend/frontend
+🎓  Stage — Swalis (Alger)                              Sept. 2024 — Mars 2025
+    ├─ Collect Pro  →  collecte de données produits en magasins
+    ├─ Interfaces de saisie et de gestion des données
+    └─ Laravel / React.js / Inertia.js  →  PFE validé 18,5/20
+
+🔧  Développeur Freelance Web                           2023 — 2025
+    ├─ Applications web  →  Laravel / React.js / MySQL
+    ├─ E-commerce Hichem Technologie  →  Laravel + Filament
+    ├─ Back-office  →  produits, commandes, clients, suivi des ventes
+    └─ Projets  →  JAD Immobilier, location de voitures, e-commerce
+
+📱  Projet — Solution Web & Mobile de collecte de données    2026 — Présent
+    ├─ Web  →  Laravel / React.js / Inertia.js / PostgreSQL
+    └─ Mobile  →  Flutter + Firebase + REST API
 ```
 
 ---
@@ -116,8 +129,8 @@ mindset  : "Toujours apprendre, toujours créer. 🔥"
 ## 🎓 Education
 
 ```
-📚  BTS Développement Web & Mobile             2022 — 2025
-    Formation fullstack · Technologies mobiles · Gestion de projet
+📚  BTS Développeur Web et Mobile                       2023 — 2025
+    INSFP — Rahmania · Diplôme obtenu avec 18,5/20
 ```
 
 ---
@@ -134,7 +147,7 @@ mindset  : "Toujours apprendre, toujours créer. 🔥"
 
 ## 🤝 Soft Skills
 
-`✔ Travail en équipe` &nbsp; `✔ Gestion de projet` &nbsp; `✔ Résolution de problèmes` &nbsp; `✔ Adaptabilité` &nbsp; `✔ Communication client`
+`✔ Travail en équipe` &nbsp; `✔ Analyse des besoins métier` &nbsp; `✔ Résolution de problèmes` &nbsp; `✔ Adaptabilité` &nbsp; `✔ Communication client`
 
 ---
 
